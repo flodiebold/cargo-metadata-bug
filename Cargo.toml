@@ -1,0 +1,2 @@
+[workspace]
+members = ["binary", "integration_test"]

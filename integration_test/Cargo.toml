@@ -1,0 +1,8 @@
+[package]
+name = "integration_test"
+version = "0.1.0"
+authors = ["Florian Diebold <flodiebold@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+binary = { path = "../binary" }

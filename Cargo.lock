@@ -1,0 +1,11 @@
+[[package]]
+name = "binary"
+version = "0.1.0"
+
+[[package]]
+name = "integration_test"
+version = "0.1.0"
+dependencies = [
+ "binary 0.1.0",
+]
+
